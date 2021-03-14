@@ -1,0 +1,8 @@
+{
+    "name": "Acrópolis Digital",
+    "short_name": "Acropolis",
+    "lang": "es-419",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#333333"
+  }
