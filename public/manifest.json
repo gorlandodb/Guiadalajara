@@ -1,26 +1,26 @@
-  {
-    "name": "Acropolis Digital",
-    "short_name": "Acrópolis",
-    "icons": [
-      {
-        "src": "android-icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "apple-icon.png",
-        "sizes": "180x180",
-        "type": "image/png"
-      },
-      {
-        "src": "ms-icon-144x144.png",
-        "sizes": "144x144",
-        "type": "image/png"
-      }
-    ],
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
-    "start_url": "/",
-    "display": "standalone",
-    "orientation": "portrait"
-  }
+{
+  "name": "Acrópolis Digital",
+  "short_name": "Acrópolis Digital",
+  "description": "La plataforma mexicana diseñada para tu negocio, dedicada a mejorar la forma en que las personas se mueven por el mundo real.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/ms-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
