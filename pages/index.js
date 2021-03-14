@@ -37,13 +37,13 @@ export default function Home() {
       <main className={styles.main}>
             
         <h1 className={styles.title}>
-          Bienvenido a <a href="https://registro.acropolis.digital/">Acrópolis Digital</a>
+          We'll be right back... soon.
         </h1>
         
       </main>
 
       <footer className={styles.footer}>
-
+        Todos los derechos reservados. © Acrópolis Digital 2021.
       </footer>
     </div>
   )
