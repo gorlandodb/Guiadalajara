@@ -16,9 +16,8 @@ export default function Home() {
 
       <main className={styles.main}>
             
-      <Button>Button</Button>
-      <Button>Button</Button>
-      <Button>Button</Button>
+      <Button>Botón 01</Button>
+      <Button>Botón 02</Button>
 
 
       <div  style={{
