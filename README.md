@@ -1,4 +1,4 @@
-# Bienvenido a Acrópolis Digital
+# Bienvenido a Guiadalajara
 
 ## Para empezar
 
@@ -15,5 +15,5 @@ El proyecto se instalará. Posteriormente, abre [http://localhost:3000](http://l
 
 Para aprender más, puedes verificar nuestra documentación en:
 
-- [Docs Acrópolis Digital](https://docs.acropolis.digital) - aprende sobre Acrópolis y sus funciones.
+- [Docs Guiadalajara](https://docs.guiadalajara.com) - aprende sobre Guiadalajara y sus funciones.
 

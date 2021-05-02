@@ -10,15 +10,15 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
 
-      <title>Acrópolis Digital</title>
+      <title>Guiadalajara</title>
       <meta charSet="utf-8" />
 
       <link rel="manifest" href="manifest.json"/>
 
       <meta name="mobile-web-app-capable" content="yes"/>
       <meta name="apple-mobile-web-app-capable" content="yes"/>
-      <meta name="application-name" content="Acrópolis"/>
-      <meta name="apple-mobile-web-app-title" content="Acrópolis"/>
+      <meta name="application-name" content="Guiadalajara"/>
+      <meta name="apple-mobile-web-app-title" content="Guiadalajara"/>
       <meta name="theme-color" content="#333333"/>
       <meta name="msapplication-navbutton-color" content="#333333"/>
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
@@ -37,13 +37,13 @@ export default function Home() {
       <main className={styles.main}>
             
         <h1 className={styles.title}>
-          We'll be right back... soon.
+          Estaremos de vuelta... pronto.
         </h1>
         
       </main>
 
       <footer className={styles.footer}>
-        Todos los derechos reservados. © Acrópolis Digital 2021.
+        Todos los derechos reservados. © Guiadalajara 2021.
       </footer>
     </div>
   )
